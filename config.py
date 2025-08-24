@@ -2,10 +2,10 @@
 
 # Configuración de MySQL
 DATABASE_CONFIG = {
-    'host': 'localhost',          # Cambia por tu host de MySQL
+    'host': 'vps-5257801-x.dattaweb.com',          # Cambia por tu host de MySQL
     'database': 'clientes_db',    # Nombre de tu base de datos
     'user': 'root',         # Tu usuario de MySQL
-    'password': 'jpunks',  # Tu contraseña de MySQL
+    'password': 'be51beBIde',  # Tu contraseña de MySQL
     'port': 3306,                 # Puerto de MySQL (por defecto 3306)
     'autocommit': True,
     'charset': 'utf8mb4'
