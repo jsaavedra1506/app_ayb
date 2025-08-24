@@ -2,7 +2,7 @@
 
 # Configuración de MySQL
 DATABASE_CONFIG = {
-    'host': 'vps-5257801-x.dattaweb.com',          # Cambia por tu host de MySQL
+    'host': '168.181.187.43',          # Cambia por tu host de MySQL
     'database': 'clientes_db',    # Nombre de tu base de datos
     'user': 'root',         # Tu usuario de MySQL
     'password': 'be51beBIde',  # Tu contraseña de MySQL
