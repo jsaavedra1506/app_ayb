@@ -8,7 +8,7 @@ DATABASE_CONFIG = {
     'password': 'be51beBIde',  # Tu contraseña de MySQL
     'port': 3306,                 # Puerto de MySQL (por defecto 3306)
     'autocommit': True,
-    'charset': 'utf8mb4'
+    'charset': 'utf8mb4_unicode_ci'
 }
 
 # Configuración alternativa usando variables de entorno (recomendado para producción)
